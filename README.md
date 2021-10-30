@@ -5,6 +5,7 @@ I'm Dhanesh.
 - 🌱 I’m currently learning data structures.
 - 🤔 I’m looking for help with OPEN source contributions and some machine learning.
 - 💬 Ask me about python. 
-- 📫 How to reach me: [Discord](https://google.com) - omen#9805; E-mail: dhaneshlakhani16@gmail.com
+- 📫 How to reach me: Discord - omen#9805; E-mail: dhaneshlakhani16@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm heavily invested in Dogecoin 🐶.
+<img src="https://github-readme-stats.vercel.app/api?username=OMEN-D&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
