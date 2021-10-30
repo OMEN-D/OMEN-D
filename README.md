@@ -8,4 +8,4 @@ I'm Dhanesh.
 - 📫 How to reach me: Discord - omen#9805; E-mail: dhaneshlakhani16@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm heavily invested in Dogecoin 🐶.
-<img src="https://github-readme-stats.vercel.app/api?username=OMEN-D&&show_icons=true&title_color=6cc644&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=OMEN-D&&show_icons=true&title_color=018558&icon_color=bb2acf&text_color=daf7dc&bg_color=BDE902">
