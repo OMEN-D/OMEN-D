@@ -8,9 +8,24 @@ I'm Dhanesh.
 - 📫 How to reach me: Discord - omen#9805; E-mail: dhaneshlakhani16@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm heavily invested in Dogecoin 🐶.
-<img src="https://github-readme-stats.vercel.app/api?username=OMEN-D&&show_icons=true&title_color=#006945&icon_color=bb2acf&text_color=018558&bg_color=FEF031">
 
-[![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D)](https://github.com/OMEN-D/github-readme-stats)
 
 ![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=dark)
+
+![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=radical)
+
+![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=merko)
+
+![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=gruvbox)
+
+![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=tokyonight)
+
+![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=cobalt)
+
+![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=synthwave)
+
+![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=highcontrast)
+
+![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=dracula)
+
 
