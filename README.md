@@ -38,7 +38,7 @@ I'm Dhanesh.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMEN-D&layout=compact&theme=radical)](https://github.com/OMEN-D/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OMEN-D&layout=compact&theme=radical)](https://github.com/OMEN-D/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OMEN_D)](https://github.com/OMEN-D/github-readme-stats)
 
 
 
