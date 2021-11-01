@@ -10,7 +10,7 @@ I'm Dhanesh.
 - ⚡ Fun fact: I'm heavily invested in Dogecoin 🐶.
 
 
-
+<!-- 
 ![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=dark)
 
 ![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=radical)
@@ -32,10 +32,11 @@ I'm Dhanesh.
 ![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=dracula)
 
 
+ -->
+ 
+![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=radical)
 
-![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMEN-D&layout=compact&theme=onedark)](https://github.com/OMEN-D/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMEN-D&layout=compact&theme=radical)](https://github.com/OMEN-D/github-readme-stats)
 
 
 
