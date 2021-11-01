@@ -11,3 +11,6 @@ I'm Dhanesh.
 <img src="https://github-readme-stats.vercel.app/api?username=OMEN-D&&show_icons=true&title_color=#006945&icon_color=bb2acf&text_color=018558&bg_color=FEF031">
 
 [![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D)](https://github.com/OMEN-D/github-readme-stats)
+
+![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=dark)
+
