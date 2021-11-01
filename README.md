@@ -10,22 +10,9 @@ I'm Dhanesh.
 - ⚡ Fun fact: I'm heavily invested in Dogecoin 🐶.
 
 
-![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=dark)
-
-![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=radical)
 
 ![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=merko)
 
-![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=gruvbox)
 
-![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=tokyonight)
-
-![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=cobalt)
-
-![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=synthwave)
-
-![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=highcontrast)
-
-![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEN-D&show_icons=true&theme=dracula)
 
 
